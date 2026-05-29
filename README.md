@@ -1,7 +1,7 @@
 # Davranışsal Risk Faktörü Gözetim Sistemi (BRFSS) Verileri Kullanılarak Beslenme, Fiziksel Aktivite ve Egzersiz Alışkanlıklarının Vücut Kitle İndeksi (BMI) Üzerindeki Etkilerinin Makine Öğrenmesi Yöntemleriyle Modellenmesi
 
 **Kocaeli Üniversitesi**  
-**Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü**  
+**Fen-Edebiyat Fakültesi, Yapay Zeka Ve Makine Öğrenmesi Bölümü**  
 *Makine Öğrenmesinin İlkeleri Dersi Dönem Sonu Projesi*  
 **Grup 9 Çalışma Raporu ve Akademik Makalesi**
 
