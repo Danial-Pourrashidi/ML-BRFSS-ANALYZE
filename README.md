@@ -49,7 +49,7 @@ Bizim çalışmamız, literatürdeki bu birikimi referans alarak BRFSS 2024 veri
 
 Çalışmada kullanılan ana veri kaynağı CDC tarafından yayınlanan **BRFSS 2024** veri setidir. Gerçek veri seti binlerce satır ve yüzlerce değişkenden oluşmaktadır. Bu çalışmada modelleme sınırlarını netleştirmek ve doğrudan beslenme-aktivite-obezite ilişkisine odaklanmak amacıyla 5 temel sütun (değişken) seçilmiştir. 
 
-Projenin test ve doğrulama aşamalarında tutarlı bir geliştirme ortamı sağlamak adına, orijinal veri setinin istatistiksel dağılımlarını yansıtan ve `veri_olusturucu.py` betiği vasıtasıyla üretilen sentetik bir BRFSS veri seti de kullanılmıştır.
+Projenin test ve doğrulama aşamalarında tutarlı bir geliştirme ortamı sağlamak adına, orijinal veri setinin istatistiksel dağılımlarını yansıtan ve `dataset.py` betiği vasıtasıyla üretilen sentetik bir BRFSS veri seti de kullanılmıştır.
 
 Seçilen değişkenlerin BRFSS kodları, açıklamaları ve veri tipleri Tablo 1'de özetlenmiştir:
 
